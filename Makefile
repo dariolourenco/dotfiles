@@ -8,3 +8,4 @@ set-shell:
 	sudo chsh -s /usr/zsh
 	
 link-config:
+	ln .spacemacs ~/.spacemacs

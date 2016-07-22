@@ -20,3 +20,4 @@ zsh
 emacs
 vim
 samba
+python-pip

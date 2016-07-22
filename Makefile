@@ -8,5 +8,5 @@ set-shell:
 	sudo chsh -s /usr/zsh
 	
 link-config:
-	ln .spacemacs ~/.spacemacs
-	ln .vimrc ~/.vimrc
+	ln ~/dotfiles/.spacemacs ~/.spacemacs
+	ln ~/dotfiles/.vimrc ~/.vimrc

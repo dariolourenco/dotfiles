@@ -9,3 +9,4 @@ set-shell:
 	
 link-config:
 	ln .spacemacs ~/.spacemacs
+	ln .vimrc ~/.vimrc
